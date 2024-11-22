@@ -1,0 +1,56 @@
+*{
+        margin:0;
+        padding:0;
+        box-sizing:border-box;
+}
+html{
+        font-size:62.5%;
+
+}
+body {
+        height:100vh;
+        
+        background-color:bisque;
+        color:bisque;
+        display:grid;
+        place-items: center;
+        
+
+h1{
+        font-size:3rem;
+        font-weight: bold;
+        text-align: center;
+        text-transform: uppercase;
+        position:relative;
+}
+}
+h1::before{
+        content:"Bibilophile";
+        position:absolute;
+        top:0;
+        left:0;
+        width:10rem;
+        color:rgb(255, 152, 169);
+        border-right: 2px solid rgb(255, 152, 169);
+        animation: reveal 5.5s linear infinite;
+        text-shadow:4px 4px 2px rgba(255, 173, 173, 0.41);
+        overflow:hidden;
+}
+@keyframes reveal{
+        0%{
+                width:0%;
+                scale:1;
+                
+        }
+        50%{
+                width:102%;
+                scale:1.5;
+
+        }
+        100%{
+                width:0%;
+                scale:1;
+                
+
+        }
+}
