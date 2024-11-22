@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Lunar Eclipse</title>
+        <link rel="stylesheet" href="index-eclipse.css"/>
+</head>
+<body>
+        <div class="lunar"></div>
+        <div class="eclipse"></div>
+        <div class="circle"></div>
+        <script>
+                function randomNumber(min, max) {
+    return Math.floor(Math.random() * (max - min + 1)) + min
+}
+
+const STAR_COUNT = Math.round(((Math.random()+1) * 100));
+let result = ""
+for(let i = 0; i < STAR_COUNT; i++){
+    result += `${randomNumber(-50, 50)}vw ${randomNumber(-50, 50)}vh ${randomNumber(0, 1)}px ${randomNumber(0, 1)}px #fff,`
+}
+console.log(result.substring(0, result.length - 1))
+
+        </script>
+</body>
+</html>
