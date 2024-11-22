@@ -44,7 +44,10 @@ body{
         background-color: #F5B027;
 /* background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(248,255,4,1) 35%,
  rgba(255,185,0,1) 100%); */
-         animation:lunaring 10s linear infinite;
+        -webkit-box-shadow:0px 0px 105px 45px rgba(0, 0, 0, 0.9);
+-moz-box-shadow: 0px 0px 105px 45px rgba(0, 0, 0, 0.9);
+box-shadow: 0px 0px 105px 45px rgba(0, 0, 0, 0.9);
+         animation:lunaring 10s ease-in-out infinite;
         border-radius: 1rem;
         z-index:1;
         display:grid;
@@ -54,7 +57,7 @@ body{
         0%{
                 background-color: #F5B027;
         }
-        10%{
+        25%{
                 background-color: #845f15;
 
         }
@@ -64,7 +67,7 @@ body{
         60%{
                 background-color: black;
         }
-        90%{background-color: #845f15;}
+        75%{background-color: #845f15;}
         100%{background-color: #F5B027;}
     }
     .circle{
