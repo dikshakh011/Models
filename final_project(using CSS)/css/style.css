@@ -1,3 +1,4 @@
+/* Media Query SEO Contact page proper styling and dimension correction pending */
 
 @import url('https://fonts.googleapis.com/css2?family=Bungee&family=Urbanist:ital,wght@0,100..900;1,100..900&display=swap');
 
@@ -227,14 +228,18 @@ li {
 
 /* Hero Section Start */
 
+
 main{
   position:relative;
   background-image:linear-gradient( to top right,#3d86fa,#4484fb,#679eff,#b3d2ff,#ebf3fe);
+  
+  
 }
 
 .section-hero .grid{
   align-items: center;
   gap:6.4rem;
+  border:none;
 
   & .hero-subheading{
     text-transform: uppercase;
@@ -256,6 +261,7 @@ main{
   & .hero-para{
     color:var(--white-color);
     margin:2rem 0 4.2rem 0;
+    border:none;
 
   }
 
@@ -270,23 +276,27 @@ main{
 
 .custom-shape-divider-bottom-1732298907 {
   position: absolute;
-  bottom: 0;
+  bottom: -1rem;
   left: 0;
   width: 100%;
   overflow: hidden;
-  line-height: 0;
+  line-height: 10rem;
   transform: rotate(180deg);
+  
 }
 
 .custom-shape-divider-bottom-1732298907 svg {
   position: relative;
   display: block;
+  
   width: calc(100% + 1.3px);
   height: 75px;
+  
 }
 
 .custom-shape-divider-bottom-1732298907 .shape-fill {
   fill: #FFFFFF;
+  
 }
 
 /* 
