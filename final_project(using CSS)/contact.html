@@ -1,0 +1,297 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Contact</title>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
+      integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+
+    <link rel="stylesheet" href="css/style.css" />
+  </head>
+  <bod>
+    <!-- ========== Start NAVBAR Section ========== -->
+    <header class="section-navbar">
+      <div class="container">
+        <div class="navbar-brand">
+          <a href="index.html">
+            <img
+              src="./images/logo.png"
+              alt="my thapa eduhub logo"
+              width="80%"
+              height="auto"
+            />
+          </a>
+        </div>
+        <nav class="navbar">
+          <ul>
+            <li class="nav-item">
+              <a class="nav-link" href="index.html"> home </a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="about.html"> about </a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="service.html"> services </a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="blog.html"> blog </a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="contact.html"> contact </a>
+            </li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+
+    <!-- ========== End NAVBAR Section ========== -->
+
+    <!-- Start Contact Section -->
+
+    <section class="section-contact">
+        <div class="container">
+          <h2 class="section-common-heading">Contact Us</h2>
+          <p class="section-common-subheading">
+            Get in touch with us. We are always here to help you.
+          </p>
+        </div>
+
+        <div class="container grid grid-two--cols">
+                <div class="contact-form">
+                        <form action="#">
+                                <div class="grid grid-two--cols mb-3">
+                                        <div>
+                                                <label for="fullname">Fullname</label>
+                                                 <input 
+                                                 type="text" 
+                                                 name="fullname" 
+                                                 id="fullname" 
+                                                 required 
+                                                 minlength="2"
+                                                 autocomplete="off" 
+                                                 placeholder="Enter your fullname"
+                                                 />
+                                        </div>
+
+                                        <div>
+                                                <label for="email">E-mail Address</label>
+                                                 <input 
+                                                 type="email" 
+                                                 name="email" 
+                                                 id="email"
+                                                 required 
+                                                 pattern="^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$"
+                                                 title="Please enter a valid email address (e.g., name@example.com)"
+                                                 autocomplete="off" 
+                                                 placeholder="Enter your email"
+                                                 />
+                                        </div>
+                                </div>
+                                <div class="mb-3">
+                                        <label for="subject">Subject</label>
+                                         <input 
+                                         type="text"
+                                         name="subject"
+                                         id="subject"
+                                         required
+                                         minlength="20"
+                                         maxlength="100"
+                                         autocomplete="off"
+                                         placeholder="Enter your subject"
+                                         />
+                                         <div id="sub-count" class="char-count">0 / 100</div>
+                                </div>
+                                <div class="mb-3">
+                                        <label for="message">Message</label>
+                                         <textarea
+                                         name="message"
+                                         id="message"
+                                         required
+                                         cols="30"
+                                         rows="10"
+                                         minlength="100"
+                                         maxlength="600"
+                                         autocomplete="off"
+                                         placeholder="Enter your message"
+                                         ></textarea>
+                                         <div id="message-count" class="char-count">0 / 600</div>
+                                </div>
+                                <div>
+                                        
+                                         <button
+                                         type="submit"
+                                         class="btn btn-Submit"
+                                         >Send message</button>
+                                </div>
+
+                                
+
+                        </form>
+                </div>
+                <div class="geo-image--embed">
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3650.943306790285!2d86.42057600938212!3d23.785033087359682!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39f6bccc31d60e3d%3A0x9b1b965de5c433fe!2sKrishna%20Apartment!5e0!3m2!1sen!2sin!4v1732374995912!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                </div>
+
+                
+
+                
+                
+        </div>
+
+  
+        
+        
+      </section>
+
+     <!-- End Contact Section -->
+
+        <!-- ========== Start contact home Section ========== -->
+
+         <div class="section-contact--homepage" id="section-contact--homepage">
+                <div class="container grid grid-two--cols">
+                  <div class="contact-content">
+                    <h2 class="contact-title">Let's revolutionize the way you study</h2>
+                    <p>Join our free bootcamps to know us better</p>
+                    <div class="btn">
+                      <a href="contact.html">
+                        start now <i class="fa-solid fa-arrow-circle-right"></i>
+                      </a>
+                    </div>
+                  </div>
+                  <div class="contact-image">
+                    <img src="./images/main.png" alt="a guy doing coding" />
+                  </div>
+                </div>
+              </div> 
+          
+              <!-- ========== End contact home Section ========== -->
+          
+              <!-- Footer Section Start -->
+           
+               <footer>
+                <div class="container grid grid-four--cols">
+                  <div class="footer-1--div">
+                    <div class="logo-brand">
+                      <a href="index.html" class="footer-subheading">Thapa EduHUb</a>
+                    </div>
+                    <p>Let's revolutionize the way you study with Thapa EduHub</p>
+          
+                    <div class="social-footer--icons">
+                      <a href="https://discord.gg/fDuFEXfyyH" target="_blank">
+                        <i class="fa-brands fa-discord"></i>
+                      </a>
+                      <a href="https://www.youtube.com/thapatechnical" target="_blank">
+                        <i class="fa-brands fa-youtube"></i>
+                      </a>
+                      <a href="https://www.instagram.com/thapatechnical/" target="_blank">
+                        <i class="fa-brands fa-instagram"></i>
+                      </a>
+                    </div>
+                  </div>
+          
+                  <div class="footer-2--div">
+                    <p class="footer-subheading">Courses</p>
+                    <ul>
+                      <li><a href="./service.html"> JS </a></li>
+                      <li><a href="./service.html"> CSS </a></li>
+                      <li><a href="./service.html"> HTML </a></li>
+                      <li><a href="./service.html"> SQL </a></li>
+                      <li><a href="./service.html"> JAVA </a></li>
+                    </ul>
+                  </div>
+          
+                  <div class="footer-3--div">
+                    <p class="footer-subheading">Links</p>
+                    <ul>
+                      <li><a href="index.html"> home </a></li>
+                      <li><a href="index.html"> home </a></li>
+                      <li><a href="index.html"> home </a></li>
+                      <li><a href="index.html"> home </a></li>
+                      <li><a href="index.html"> home </a></li>
+                    </ul>
+                  </div>
+          
+                  <div class="footer-4--div">
+                    <p class="footer-subheading">Blogs</p>
+                    <ul>
+                      <li><a href="index.html"> HTML </a></li>
+                      <li><a href="index.html"> CSS </a></li>
+                      <li><a href="index.html"> JS </a></li>
+                      <li><a href="index.html"> JAVA </a></li>
+                      <li><a href="index.html"> SQL </a></li>
+                    </ul>
+                  </div>
+                </div>
+              </footer> 
+          
+               <!-- Footer Section End -->
+          
+               <script>
+                 document.querySelector('#fullname').addEventListener('input', function (e) {
+                  const value = e.target.value;
+
+                // Corrected regex to ensure the name doesn't start with a space or hyphen
+                  const invalidChars = /^[^\s-][A-Za-z\s'-]*$/;
+
+                // If the value doesn't match the pattern, set custom validity message
+                 if (!invalidChars.test(value)) {
+                 e.target.setCustomValidity("Name cannot start with a hyphen or space. It can only contain letters, spaces, apostrophes, and hyphens.");
+                 } else {
+                 e.target.setCustomValidity("");  // Clear custom validity if it matches
+                 }
+                 });
+
+                // Function to update character count
+                function updateCharCount(inputElement, counterElement, maxChars) {
+                  inputElement.addEventListener("input", function () {
+                    const currentLength = inputElement.value.length;
+                    counterElement.textContent = `${currentLength} / ${maxChars}`;
+                  });
+                }
+              
+                // Select elements
+                const subjectInput = document.querySelector("#subject");
+                const subCounter = document.querySelector("#sub-count");
+                const messageTextarea = document.querySelector("#message");
+                const messageCounter = document.querySelector("#message-count");
+              
+                // Add event listeners for character count updates
+                updateCharCount(subjectInput, subCounter, 100);
+                updateCharCount(messageTextarea, messageCounter, 600);
+              
+                // Email pattern for validation
+                const emailPattern = /^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$/;
+              
+                // Add a listener to the form submission
+                const form = document.querySelector("form");
+                form.addEventListener("submit", function (event) {
+                  // Prevent default form submission behavior
+                  event.preventDefault();
+              
+                  // Validate the email field
+                  const emailInput = document.querySelector("#email");
+                  if (!emailPattern.test(emailInput.value)) {
+                    alert("Please enter a valid email address.");
+                    emailInput.focus(); // Focus on the email field
+                    return; // Exit the function if the email is invalid
+                  }
+              
+                  // Check the overall form validity
+                  if (form.checkValidity()) {
+                    alert("Form is valid! Submitting...");
+                    form.submit(); // Trigger form submission
+                  } else {
+                    alert("Please fill out the form correctly.");
+                    form.reportValidity(); // Trigger browser's validation messages
+                  }
+                });
+              </script>
+              
+            </body>
+          </html>
