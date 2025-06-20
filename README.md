@@ -1,10 +1,36 @@
-Hi folks, I am Diksha Khetan, a CS undergrad from India.
-I am MERN full stack developer. Also, I have good command in CS(specifically software development) fundamentals like Data Structure and Algorithms, Object-oriented programming, S.O.L.I.D principles and so on.
-I am proficient in programming languages like JAVA, JavaScript, HTML, CSS, Python, SQL. And, yes, also in communicative languages like English and Hindi😂😅
-Fun fact: I am also a writer. Recently, I have published two books as co-poet/co-author: Unsune Alfaz and Screenshot of a Past Life (if interested ping me on Instagram😉).
+A passionate MERN Stack Developer and Computer Science undergraduate from India. I specialize in crafting scalable, clean, and maintainable code for real-world applications.
 
-Let's connect on: 
+💼 Looking for: Collaborations, Internships & Developer Roles
 
-LinkedIn- www.linkedin.com/in/diksha-khetan-0a33b4227
+💡 Areas of Interest: Web Development, Software Engineering, Problem Solving
 
-Instagram- https://www.instagram.com/khetandiksha11d/?hl=en
+✍️ Co-Author of Unsune Alfaz & Screenshot of a Past Life
+
+🔤 Languages I code in: JavaScript, Java, Python, SQL, HTML/CSS
+
+📚 Skilled in: Data Structures & Algorithms, OOP, SOLID Principles
+
+💬 Fun Fact: I speak JavaScript as fluently as Hindi and English 😅
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dikshakh011&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dikshakh011&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikshakh011&layout=compact&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dikshakh011&theme=radical&margin-w=15&no-frame=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dikshakh011&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dikshakh011&label=Profile%20views&color=blueviolet&style=flat" alt="Profile Views" />
+</p>
