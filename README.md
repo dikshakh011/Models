@@ -1,3 +1,36 @@
+<h1 align="center">🎨 Frontend Templates by Diksha Khetan</h1>
+<p align="center">
+  🚀 Clean HTML, CSS & JavaScript UI Designs | Mobile-Responsive | Developer-Ready
+</p>
+
+<p align="center">
+  <a href="https://github.com/dikshakh011">
+    <img src="https://img.shields.io/github/followers/dikshakh011?label=Follow&style=social" alt="GitHub Badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/diksha-khetan-0a33b4227">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blue" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://github.com/dikshakh011/Models/stargazers">
+    <img src="https://img.shields.io/github/stars/dikshakh011/Models?style=social" alt="Stars Badge"/>
+  </a>
+</p>
+
+---
+
+## 🌐 Live Demo
+
+🚧 Coming Soon  
+🔗 [https://your-portfolio-link.com](https://your-portfolio-link.com)
+
+---
+
+## 📌 Project Description
+
+This repository contains a collection of **frontend template designs** built using **pure HTML, CSS, Tailwind CSS, and vanilla JavaScript**. These templates are designed to be **responsive**, **aesthetically pleasing**, and **easy to customize** for developers working on personal or client projects.
+
+---
+
+## About Me
 A passionate MERN Stack Developer and Computer Science undergraduate from India. I specialize in crafting scalable, clean, and maintainable code for real-world applications.
 
 💼 Looking for: Collaborations, Internships & Developer Roles
