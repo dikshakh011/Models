@@ -23,16 +23,15 @@
 
 🔗 [Newton Cradle](https://dikshakh011.github.io/Models/newton-cradle-project/)
 
-🚧 Carausal Effect 
-🔗 [https://your-portfolio-link.com](https://your-portfolio-link.com)
-🚧 Carausal Effect 
-🔗 [https://your-portfolio-link.com](https://your-portfolio-link.com)
-🚧 Carausal Effect 
-🔗 [https://your-portfolio-link.com](https://your-portfolio-link.com)
-🚧 Carausal Effect 
-🔗 [https://your-portfolio-link.com](https://your-portfolio-link.com)
-🚧 Carausal Effect 
-🔗 [https://your-portfolio-link.com](https://your-portfolio-link.com)
+🔗 [Neon Loader](https://dikshakh011.github.io/Models/Neon-Loader/)
+
+🔗 [Text Animation](https://dikshakh011.github.io/Models/TextAnimation/)
+
+🔗 [Text Shake](https://dikshakh011.github.io/Models/Text-Shake/)
+
+🔗 [Lunar Eclipse](https://dikshakh011.github.io/Models/lunarEclipse/)
+
+🔗 [EduHub](https://dikshakh011.github.io/Models/final_project(using%20CSS)/index.html)
 
 ---
 
