@@ -19,7 +19,7 @@
 
 ## 🌐 Live Demo
 
-🔗 [Carausal Effect](https://dikshakh011.github.io/Models/Carauasal_Effect)
+🔗 [Carausal Effect](https://dikshakh011.github.io/Models/Carausal_Effect/)
 
 🔗 [Newton Cradle](https://dikshakh011.github.io/Models/newton-cradle-project/)
 
