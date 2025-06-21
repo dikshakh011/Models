@@ -19,10 +19,10 @@
 
 ## 🌐 Live Demo
 
-🚧 Carausal Effect 
-🔗 [https://your-portfolio-link.com](https://your-portfolio-link.com)
-🚧 Newton Cradle 
-🔗 (https://dikshakh011.github.io/Models/newton-cradle-project/)
+🚧 Carausal Effect 🔗 [https://your-portfolio-link.com](https://your-portfolio-link.com)
+
+🔗 [Newton Cradle](https://dikshakh011.github.io/Models/newton-cradle-project/)
+
 🚧 Carausal Effect 
 🔗 [https://your-portfolio-link.com](https://your-portfolio-link.com)
 🚧 Carausal Effect 
