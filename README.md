@@ -19,21 +19,12 @@
 
 ## 🌐 Live Demo
 
-🔗 [Carausal Effect](https://dikshakh011.github.io/Models/Carausal_Effect/)
+| 🔗 [Carausal Effect](https://dikshakh011.github.io/Models/Carausal_Effect/)  |  🔗 [Newton Cradle](https://dikshakh011.github.io/Models/newton-cradle-project/)  |
+|---------------|--------|
+| 🔗 [Neon Loader](https://dikshakh011.github.io/Models/Neon-Loader/) | 🔗 [Text Animation](https://dikshakh011.github.io/Models/TextAnimation/) |
+| 🔗 [Text Shake](https://dikshakh011.github.io/Models/Text-Shake/) | 🔗 [Lunar Eclipse](https://dikshakh011.github.io/Models/lunarEclipse/) |
+| 🔗 [Shake Button](https://dikshakh011.github.io/Models/Shake_me_project/) | 🔗 [EduHub](https://dikshakh011.github.io/Models/final_project(using%20CSS)/index.html) |
 
-🔗 [Newton Cradle](https://dikshakh011.github.io/Models/newton-cradle-project/)
-
-🔗 [Neon Loader](https://dikshakh011.github.io/Models/Neon-Loader/)
-
-🔗 [Text Animation](https://dikshakh011.github.io/Models/TextAnimation/)
-
-🔗 [Text Shake](https://dikshakh011.github.io/Models/Text-Shake/)
-
-🔗 [Lunar Eclipse](https://dikshakh011.github.io/Models/lunarEclipse/)
-
-🔗 [Shake Button](https://dikshakh011.github.io/Models/Shake_me_project/)
-
-🔗 [EduHub](https://dikshakh011.github.io/Models/final_project(using%20CSS)/index.html)
 
 ---
 
